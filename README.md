@@ -8,6 +8,7 @@ Surveillance Hack system
 
 ## Project Description
 
+Smart security is the future and with the help of technology available today, an affordable intelligent video analytics system is within our reach. This application is a low-cost, adaptive and extensible surveillance system focused on identifying and alerting for potential campus intruders. It can integrate into an existing alarm system and provides customizable alerts for the user. It can process several IP cameras and can distinguish between someone who is in the face database and someone who is not (a potential intruder).
 
 
 ## How to Use
