@@ -10,7 +10,6 @@ Surveillance Hack system
 
 Smart security is the future and with the help of technology available today, an affordable intelligent video analytics system is within our reach. This application is a low-cost, adaptive and extensible surveillance system focused on identifying and alerting for potential campus intruders. It can integrate into an existing alarm system and provides customizable alerts for the user. It can process several IP cameras and can distinguish between someone who is in the face database and someone who is not (a potential intruder).
 
-![Architecture](https://raw.githubusercontent.com/Beauth/clynica/master/docs/static/clynica_logo.png)
 
 ## How to Use
 
@@ -66,7 +65,7 @@ python WebApp.py
 User story
 ---
 ```
-Will be adding in some time
+The team was working all night on reducing the lag in face recognition and making it as fast as possible, with ranging from testing multiple models, solutions, and methodologies while tirelessly building the code that powers the solution over multiple cameras.
 ```
 
 ######  `CodeBreak 1.0`
